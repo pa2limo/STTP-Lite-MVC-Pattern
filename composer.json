@@ -1,0 +1,22 @@
+{
+    "name": "pa2limo/STTP-Lite-MVC",
+    "type": "project",
+    "description": "A very simple PHP MVC Pattern",
+    "keywords": ["mvc", "pattern", "application"],
+    "homepage": "github.com/pa2limo/STTP-Lite-MVC-Pattern/new/master",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pa2limo",
+            "homepage": "http://stt-pomosda.ac.id",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/pa2limo/webcode-php/issues",
+        "source": "https://github.com/pa2limo/webcode-php"
+    },
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
